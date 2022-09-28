@@ -22,9 +22,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
   ---
-
-</div>
-### :man_technologist: About Me :
+  ### :man_technologist: About Me :
   I am a student interested in Web Dev and ML Algorithms. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   - :telescope: I’m pursuing my B.Tech in AI&ML.
   
@@ -33,6 +31,9 @@
 
  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-jha-476296213)
 
+
+
+</div>
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
