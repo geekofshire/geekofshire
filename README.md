@@ -25,7 +25,7 @@
   - :telescope: I’m pursuing my B.Tech in AI&ML.
   
 
-  - :seedling: I like to read in my free time.
+  - :seedling: I like to read books in my free time.
 
  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-jha-476296213) or email: nickeyjha2@gmail.com
 
