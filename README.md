@@ -27,7 +27,7 @@
 
   - :seedling: I like to read books in my free time.
 
- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-jha-476296213) or email: nickeyjha2@gmail.com
+ - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-jha-476296213) or email: rohanjha1303@gmail.com
 
 
 
