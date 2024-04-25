@@ -21,7 +21,7 @@
   
  
   ### About Me :
-  - :I am a student interested in Web Dev and ML Algorithms. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  - I am a student interested in Web Dev and ML Algorithms. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   - :telescope: I’m pursuing my B.Tech in AI&ML.
   
 
