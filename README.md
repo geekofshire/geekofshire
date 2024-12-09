@@ -23,8 +23,7 @@
 <div align="left">
 
 ### About Me :
-- I am a student interested in Web Dev and ML Algorithms. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: I’m pursuing my B.Tech in AI&ML.
+- I am a Software Engineer intrested in Web Development and Machine Learning
 - :seedling: I like to read books in my free time.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-jha-476296213) or email: rohanjha1303@gmail.com
 
