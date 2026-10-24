@@ -9,12 +9,6 @@
   <a href="https://www.linkedin.com/in/rohan-jha-476296213">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="instagram.com/rohanjha03">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/at_the_rate03?t=dDzt0CkHdrsvviw5n3EAVA&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=geekofshire&style=flat-square&color=blue" alt=""/>
 
